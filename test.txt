@@ -1,0 +1,4 @@
+! Lista personalizada de domínios
+||webhook.site
+||google.com
+||globo.com
